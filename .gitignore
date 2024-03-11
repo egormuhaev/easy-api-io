@@ -10,3 +10,9 @@
 /api/.env
 /api/.DS_Store
 /api/dist
+
+
+/example_server_for_builder/node_modules
+/example_server_for_builder/.env
+/example_server_for_builder/.DS_Store
+/example_server_for_builder/dist
