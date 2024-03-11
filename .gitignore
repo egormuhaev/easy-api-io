@@ -16,3 +16,8 @@
 /example_server_for_builder/.env
 /example_server_for_builder/.DS_Store
 /example_server_for_builder/dist
+
+/builder_prototype/node_modules
+/builder_prototype/.env
+/builder_prototype/.DS_Store
+/builder_prototype/dist
