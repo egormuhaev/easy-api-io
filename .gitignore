@@ -1,0 +1,12 @@
+/app/node_modules
+/app/nginx/rtt.digital.crt
+/app/nginx/rtt.digital.key
+/app/dist
+/app/.env
+
+/api/node_modules
+/api/https/rtt.digital.crt
+/api/https/rtt.digital.key
+/api/.env
+/api/.DS_Store
+/api/dist
